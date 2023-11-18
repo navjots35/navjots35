@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Navjot Singh
-- 👀 I’m Cloud / DevOps Engineer consists expertise with containerised workloads on Kubernetes.
+- 👀 I’m Cloud / DevOps Engineer expertise with containerised workloads on Kubernetes.
 - 🌱 I’m currently learning terraform and preparing for the certification.
 - 💞️ I’m looking to collaborate on containerised application.
 - 📫 Contact me @ navjots35@gmail.com
